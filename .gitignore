@@ -1,0 +1,9 @@
+*
+!/.gitignore
+!/README.md
+!/requirements.lock.txt
+!/tools/
+!/tools/*.py
+!/output/
+!/output/v6/
+!/output/v6/settings.json
